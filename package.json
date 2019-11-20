@@ -1,0 +1,19 @@
+{
+  "name": "angularjsprojectrepo",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dsunil017/AngularJsProjectRepo.git"
+  },
+  "author": "Sunil Dhappadhule",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dsunil017/AngularJsProjectRepo/issues"
+  },
+  "homepage": "https://github.com/Dsunil017/AngularJsProjectRepo#readme"
+}

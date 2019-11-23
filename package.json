@@ -4,7 +4,10 @@
   "description": "test",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack -p",
+    "watch": "webpack --watch"
+
   },
   "repository": {
     "type": "git",
@@ -15,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/Dsunil017/AngularJsProjectRepo/issues"
   },
-  "homepage": "https://github.com/Dsunil017/AngularJsProjectRepo#readme"
+  "homepage": "https://github.com/Dsunil017/AngularJsProjectRepo#readme",
+  "keywords": [],
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
 }
